@@ -1,16 +1,30 @@
-## Hi there 👋
+# Max Dikun
 
-<!--
-**maxdikun/maxdikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Golang Software Engineer** I focus on building scalable, high-load systems in FinTech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 Work History
+
+| Company | Role | Timeline |
+| :--- | :--- | :--- |
+| Lunar Bank | Golang Software Engineer | Mar 2024 – Present |
+| Form3 | Golang Software Engineer | Mar 2022 - Mar 2024 |
+| Sber Bank | Junior Golang Software Engineer | May 2020 - Feb 2022 |
+
+---
+
+### 🛠 Tech Stack
+
+* **Languages:** Go.
+* **Databases**: PostgreSQL, ScyllaDB, CockroachDb, MongoDb, Elasticsearch, Redis.
+* **Message queues**: Apache Kafka, NATS, RabbitMQ.
+* **Cloud services**: AWS, GCP, Microsoft Azure.
+
+---
+
+### 🔗 Contact & Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maxdikun/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Indigowar)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)]()
