@@ -25,6 +25,6 @@
 
 ### 🔗 Contact & Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maxdikun/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdikun/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Indigowar)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)]()
