@@ -10,16 +10,19 @@
 | :--- | :--- | :--- |
 | Lunar Bank | Golang Software Engineer | Mar 2024 – Present |
 | Form3 | Golang Software Engineer | Mar 2022 - Mar 2024 |
-| Sber Bank | Junior Golang Software Engineer | May 2020 - Feb 2022 |
+| Sber Bank | Junior Golang Software Engineer | May 2019 - Feb 2022 |
 
 ---
 
 ### 🛠 Tech Stack
 
-* **Languages:** Go.
-* **Databases**: PostgreSQL, ScyllaDB, CockroachDb, MongoDb, Elasticsearch, Redis.
-* **Message queues**: Apache Kafka, NATS, RabbitMQ.
-* **Cloud services**: AWS, GCP, Microsoft Azure.
+Technical Proficiencies:
+- **Core**: Golang, gRPC, Protobuf, REST.
+- **Databases**: PostgreSQL, CockroachDB, Elasticsearch, Redis, Oracle SQL, ScyllaDB.
+- **Messaging**: Apache Kafka, NATS, RabbitMQ.
+- **Infrastructure**: Kubernetes, Docker, Terraform, Nix, AWS, GCP, Azure.
+- **Observability**: Prometheus, Grafana, Loki, Jaeger, OpenTelemetry.
+- **CI/CD**: GitHub Actions, GitLab CI, Jenkins.
 
 ---
 
