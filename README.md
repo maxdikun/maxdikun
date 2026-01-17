@@ -10,7 +10,7 @@
 | :--- | :--- | :--- |
 | Lunar Bank | Golang Software Engineer | Mar 2024 – Present |
 | Form3 | Golang Software Engineer | Mar 2022 - Mar 2024 |
-| Sber Bank | Junior Golang Software Engineer | May 2019 - Feb 2022 |
+| Sber Bank | Golang Software Engineer | May 2019 - Feb 2022 |
 
 ---
 
